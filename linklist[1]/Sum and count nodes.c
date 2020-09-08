@@ -73,5 +73,4 @@ int main()
     printf("%d\n",rec_count(first));
     printf("%d\n",sum(first));
     return 0;
-
 }
